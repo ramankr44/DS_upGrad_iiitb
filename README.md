@@ -1,2 +1,2 @@
-# DS_upGrad_iiitb
+# Data Science
 course q &amp; a
